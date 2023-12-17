@@ -14,6 +14,7 @@
 		B4498DAF2B2F7A2A0028297D /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4498DAE2B2F7A2A0028297D /* WebView.swift */; };
 		B4498DB12B2F7CBD0028297D /* WebViewCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4498DB02B2F7CBD0028297D /* WebViewCoordinator.swift */; };
 		B4498DB32B2F7D1E0028297D /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4498DB22B2F7D1E0028297D /* Constants.swift */; };
+		B4498DB52B2F80420028297D /* WebViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4498DB42B2F80420028297D /* WebViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		B4498DAE2B2F7A2A0028297D /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 		B4498DB02B2F7CBD0028297D /* WebViewCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewCoordinator.swift; sourceTree = "<group>"; };
 		B4498DB22B2F7D1E0028297D /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		B4498DB42B2F80420028297D /* WebViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				B4498DA22B2F795B0028297D /* ContentView.swift */,
 				B4498DAE2B2F7A2A0028297D /* WebView.swift */,
 				B4498DB02B2F7CBD0028297D /* WebViewCoordinator.swift */,
+				B4498DB42B2F80420028297D /* WebViewModel.swift */,
 				B4498DA42B2F795C0028297D /* Assets.xcassets */,
 				B4498DA62B2F795C0028297D /* Preview Content */,
 				B4498DB22B2F7D1E0028297D /* Constants.swift */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4498DB32B2F7D1E0028297D /* Constants.swift in Sources */,
+				B4498DB52B2F80420028297D /* WebViewModel.swift in Sources */,
 				B4498DB12B2F7CBD0028297D /* WebViewCoordinator.swift in Sources */,
 				B4498DAF2B2F7A2A0028297D /* WebView.swift in Sources */,
 				B4498DA32B2F795B0028297D /* ContentView.swift in Sources */,
